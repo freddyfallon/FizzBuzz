@@ -8,10 +8,12 @@ This project was created to help me build up my experience in RSpec.
 # How to run
 On your machine, RSpec must first be installed. To do this, simply enter the following:
 
-```gem install rspec```
+```shell
+gem install rspec```
 
 Once RSpec is installed, and you are in the FizzBuzz directory, simply run:
 
-```rspec```
+```shell
+rspec```
 
 This will list out which examples have passed (all of them), and which ones have failed (none of them).

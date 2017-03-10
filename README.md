@@ -1,7 +1,7 @@
 # FizzBuzz
 This project was created to help me build up my experience in RSpec.
 
-# What it's comprised of
+# What's in this project
 - The [fizzBuzz_spec.rb file](https://github.com/freddyfallon/FizzBuzz/blob/master/spec/fizzbuzz_spec.rb) file. Lists all examples and their expectations.
 - The [fizzbuzz.rb](https://github.com/freddyfallon/FizzBuzz/blob/master/lib/fizzbuzz.rb) file. This contains the relevant Fizzbuzz method.
 
